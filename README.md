@@ -1,7 +1,7 @@
 # Queue Operations
 
 Queue operations include Enqueue and Dequeue, where data is inserted into the Queue or Removed from the Queue respectively.  
-Queues can be of different types, namely  
+Some Queues explored here are  
 - Linear Queue  
 It has multiple nodes to store data, where one node is linked to its next and previous node and can be traversed.  
 - Circular Queue  
