@@ -78,7 +78,7 @@ void del()
 {
     if (f == - 1 || f > r)
     {
-	printf("Queue Underflow \n");
+	printf("Queue is Empty \n");
 	getch();
 	return ;
     }
